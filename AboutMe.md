@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Merinajoy
+- 👀 I’m interested in frontend development.
+- 🌱 I’m skilled in HTML, CSS, JS, Bootstrap, JQuery, React.js and Node.js.
+- 💞️ I’m looking to collaborate on Web applications.
+- 📫 You can reach me at merina.jy@gmail.com
