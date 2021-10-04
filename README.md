@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Merinajoy
+- 👀 I’m interested in the world of tech
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me - merina.jy@gmail.com
